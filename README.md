@@ -1,2 +1,2 @@
 # portfolio-project
-## this is nexus project on html 
+## This is nexus project on html 
